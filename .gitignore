@@ -1,2 +1,5 @@
-/.quarto/
-**/*.quarto_ipynb
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/

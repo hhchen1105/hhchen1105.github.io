@@ -1,0 +1,9 @@
+title: Hung's Notes
+description: Random notes on Computer Science, education, AI, and technology.
+theme: minima
+
+author:
+  name: Hung
+
+plugins:
+  - jekyll-feed
