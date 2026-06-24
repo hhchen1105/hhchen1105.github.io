@@ -1,0 +1,10 @@
+---
+title: "Posts"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+---
+
+這裡整理所有公開札記。
