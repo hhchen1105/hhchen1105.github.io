@@ -85,18 +85,7 @@ rm -rf _site .jekyll-cache
 bundle exec jekyll serve
 ```
 
-### 3. Review the post
-
-Before publishing, check:
-
-* Is the title clear？
-* Is the post intended as a polished essay or an exploratory note？
-* Are categories and tags appropriate？
-* Are links working？
-* Is the tone suitable for public reading？
-* If AI tools were used for editing, does the final article still reflect my own judgment and responsibility？
-
-### 4. Commit the changes and publish to GitHub
+### 3. Commit the changes and publish to GitHub
 
 After reviewing the local preview:
 
