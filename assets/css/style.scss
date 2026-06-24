@@ -1,0 +1,9 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+/* Hide the default GitHub project/profile link in the Minimal theme */
+header p.view {
+  display: none;
+}
