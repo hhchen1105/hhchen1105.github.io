@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Hung Chen's Notes
+title: Hung's Notes
 ---
 
-# Hung Chen's Notes
+# Hung's Notes
 
 這裡收錄我對資工教育、AI、科技、研究文化與時事的一些札記。
 
